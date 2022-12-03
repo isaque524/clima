@@ -97,7 +97,7 @@ const SeachWeather = () => {
                                 </form>
                                 <div className="bg-dark bg-opacity-50 py-3">
                                     <h2 class="card-title">{data.name}</h2>
-                                    <p class="card-text lead">{day}, {month} {date}, {year}
+                                    <p class="card-text lead">{day},  {date} {month}, {year}
                                         <br />
                                         {time}
                                     </p>
